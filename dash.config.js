@@ -3,10 +3,10 @@ module.exports = {
     {
       name: 'Dash.ts',
       interpreter: 'bash',
-      script: 'yarn',
+      script: 'yarn.sh',
       args: 'dash',
       watch: false,
       autorestart: true,
     },
   ],
-};
+}
