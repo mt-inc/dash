@@ -178,6 +178,11 @@ class Home extends React.Component<Props, State> {
       'SOLUSDT',
       'XRPUSDT',
       '1000SHIBUSDT',
+      'LINKUSDT',
+      'ATOMUSDT',
+      'FTMUSDT',
+      'NEARUSDT',
+      'LUNAUSDT',
     ]
     const Items = () => (
       <List>
